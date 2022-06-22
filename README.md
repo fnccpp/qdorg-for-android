@@ -1,12 +1,12 @@
-# Organik 🍀 - Android version
+# Qdorg 🍀 - Android version
 
 A quick and dirty day organizer for Android
 
- ![](https://img.shields.io/github/last-commit/fnccpp/organik) ![](https://img.shields.io/badge/platforms-Android-lightgreen) ![](https://img.shields.io/badge/license-MIT-brightgreen) 
+ ![](https://img.shields.io/github/last-commit/fnccpp/qdorg-for-android) ![](https://img.shields.io/badge/platforms-Android-lightgreen) ![](https://img.shields.io/badge/license-MIT-brightgreen) 
 
 ## Description
 
-Organik is an Android 9.0+ app, written in Kotlin using Android Studio. 
+Qdorg is an Android 9.0+ app, written in Kotlin using Android Studio. 
 Data is saved automatically in the app's internal storage as a JSON file.
 
 ### Features 
